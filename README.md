@@ -36,7 +36,6 @@ This is a complete financial model of Walmart Inc. built in Excel using publicly
 ## 📁 Files
 
 - `Walmart.xlsx` — Main model with linked sheets, charts, and commentary
-- Screenshot of dashboard (optional preview)
 
 ---
 
