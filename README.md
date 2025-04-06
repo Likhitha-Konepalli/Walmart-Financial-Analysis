@@ -6,18 +6,18 @@ This is a complete financial model of Walmart Inc. built in Excel using publicly
 
 ## 📊 What's Included
 
-### ✅ Profitability Model
+###  Profitability Model
 - Full income statement (FY2023–FY2025)
 - COGS, SG&A, and net income margins
 - Growth rates and margin trends
 
-### ✅ Revenue Breakdown Model
+###  Revenue Breakdown Model
 - Segment-level revenue allocation (Walmart U.S., Sam’s Club, Intl)
 - Revenue per store and per square foot
 - Store count, format mix, and real estate ownership (owned vs leased)
 - Clean dashboard with donut and bar charts
 
-### ✅ Cost Structure Analysis
+###  Cost Structure Analysis
 - COGS and SG&A % of revenue
 - Operating leverage analysis
 - Dual-axis cost trend chart (FY2023–FY2025)
